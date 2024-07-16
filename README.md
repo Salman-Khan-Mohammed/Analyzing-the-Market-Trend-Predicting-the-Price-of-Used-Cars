@@ -27,12 +27,12 @@ Key Components:
 
 
 
-#Expected Outcomes:
+Expected Outcomes:
 
 	•	Market Insights: Gaining insights into the factors affecting used car prices and identifying key trends in the market.
 	•	Predictive Model: Developing a reliable model that can accurately predict the price of a used car based on its attributes.
 
-#Applications:
+Applications:
 
 	•	Consumers: Helping consumers make informed decisions when buying or selling used cars.
 	•	Dealers: Assisting car dealers in pricing their inventory competitively.
